@@ -14,7 +14,7 @@ Important terminology:
 
 The analysis is based on a dataset of 8 million records, providing insights into sessions, bounce rates, and device usage over 2014-2019. This information was visualized in a Tableau dashboard and revealed key insights into how users access the site, what devices they use, and patterns of engagement over time. The analysis shows that desktop is the dominant device for sessions, mobile has the highest bounce rate, and web traffic tends to peak during the weekdays, with notable spikes during critical events like the December 2017 wildfires. There has also been a steady decline in site traffic in the 2017-2019.
 
-[![Tableau Dashboard](dashboard.png)](https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main/blob/main/dashboard.png)
+[![Tableau Dashboard](dashboard.png)](https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main/blob/main/LAcity.org%20Web%20Traffic%20Dashboard.pdf)
 
 ## Summary of Insights
 
