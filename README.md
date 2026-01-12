@@ -57,6 +57,6 @@ I would then present these findings and recommendations to the relevant teams (I
 
 The [original dataset is available here](https://www.kaggle.com/datasets/cityofLA/lacity.org-website-traffic/data). It contains data for unique visitors, total sessions, and bounce rate for lacity.org, the main website for the City of Los Angeles over the years of 2014-2019. I did some data cleaning and transformation in SQL to create the dataset used in this analysis. [You can view the SQL script here](webtraffic.sql). It was then visualized in Tableau.
 
-Check out the [LAcity.org Web Traffic - Tableau Dashboard](https://public.tableau.com/app/profile/ruiz/viz/LAcity_orgWebTraffic/LAcity_orgWebTrafficDashboard?publish=yes).
+Check out the glimpse of [LAcity.org Web Traffic - Tableau Dashboard](https://github.com/chacharesarish/LA-Web-Traffic-Analysis-main/blob/main/LAcity.org%20Web%20Traffic%20Dashboard.pdf).
 
 
